@@ -1,7 +1,5 @@
 ﻿# Drcom-Padavan
 
-标签（空格分隔）： Padavan WebAC Shell
-
 ---
 
 <p align="center">
