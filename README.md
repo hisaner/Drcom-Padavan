@@ -28,7 +28,7 @@
 > 1.本教程教您如何在[Drcom](https://wiki.archlinux.org/index.php/Drcom_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))下使用路由器的curl模拟登录请求
 
 > 2.本教程适合使用[Drcom](https://wiki.archlinux.org/index.php/Drcom_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))进行web上网的用户，同时，要求您的路由器支持刷入第三方系统，如padavan。
-本校您可直接修改替换`auto_login.sh`文件中的`账号`和`密码`。注意，其中@运营商一项，移动是@cmcc，联通是@unicom（未测），如是联通账号自行修改。接着你可直接跳至**脚本上传到路由器**。
+本校您可直接修改替换`auto_login.sh`文件中的`账号`和`密码`。注意，其中@运营商一项，移动是@cmcc，联通是@unicom（未测），如是联通账号自行修改。接着你可直接跳至**脚本上传到路由器**，如无法使用请自行获取curl连接，可能问题是需要修改wlanacip，自行测试。
 
 > 3.关于晚上定时断网问题，详见**定时断网问题**
 
