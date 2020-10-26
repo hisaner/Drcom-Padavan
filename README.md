@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://openwrt.org/"><img src="https://s1.ax1x.com/2020/10/15/07lZZR.png"></a>
+  <a href="https://opt.cn2qq.com/padavan/"><img src="https://s1.ax1x.com/2020/10/15/07lZZR.png"></a>
 </p>
 <p align="center">
     <a href="https://github.com/hisaner/Drcom-Padavan"><img src="https://img.shields.io/badge/release-v0.1-brightgreen.svg"></a>
